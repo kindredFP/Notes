@@ -1,5 +1,4 @@
 # Notes
 
-This will be the index of my information site.
-
+Created this repository to get familiar with using git.
 
