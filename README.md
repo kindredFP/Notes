@@ -4,12 +4,13 @@
 
 ## List of Files:
 
-## README.md - this file contains the list and description of each file on the repository
+### README.md 
+- this file contains the list and description of each file on the repository
 
-## FutureProjects
+### FutureProjects
 -  contains list of things I would like to start working on
 
-## References
+### References
 -  contains list of great references
 
 
