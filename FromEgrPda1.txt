@@ -1,0 +1,123 @@
+------------
+
+General
+
+------------
+
+Netsecfocus Learn excel sheet -> https://docs.google.com/spreadsheets/d/1TD8KTRXvXwy1yU6s7Nz_JuNh7b7fa7pINZuHOVjtAAg/edit#gid=0
+
+Library -> [ask]
+
+Irongeek Infosec conference recordings -> http://www.irongeek.com/
+
+--------------
+
+Podcasts
+
+--------------
+
+Tradecraft security weekly -> https://wiki.securityweekly.com/Tradecraft_Security_Weekly
+
+Appsecpodcast -> https://www.appsecpodcast.org/
+
+Risky biz -> https://risky.biz/
+
+7MS -> https://7ms.us/
+
+EIS -> http://www.timothydeblock.com/eis/
+
+------
+
+Infra
+
+------
+
+Certs
+
+    Elearnsecurity ECPPT -> https://www.elearnsecurity.com/certification/ecppt/
+
+    VHL -> https://www.virtualhackinglabs.com/
+
+    SANS 560 -> https://www.sans.org/course/network-penetration-testing-ethical-hacking
+
+    Offensive Security (OSCP) -> https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/
+
+Challenges and Boot 2 Roots
+
+    Vulnhub -> https://www.vulnhub.com/
+
+    Hack the box -> https://www.hackthebox.eu/en
+
+    Over the Wire (OTW) -> http://overthewire.org/wargames/
+
+    Under the Wire (UTW) -> http://underthewire.tech/
+
+Cheat sheets
+
+    The Magic of Learning
+
+        https://bitvijays.github.io/
+
+    HighOn.Coffee
+
+        https://highon.coffee/
+
+Books (cfr lib)
+
+    Penetration Testing: A Hands On Introduction
+
+--------------
+
+Web app
+
+--------------
+
+Burp Suite -> http://aetherlab.teachable.com/p/burp-suite
+
+Pentesteracademy -> http://www.pentesteracademy.com/
+
+    Javascript for Pentesters -> http://www.pentesteracademy.com/course?id=11
+
+    Web Application Pentesting -> http://www.pentesteracademy.com/course?id=5
+
+    WAP Challenges -> http://www.pentesteracademy.com/course?id=8
+
+Pentesterlab (advanced) -> https://pentesterlab.com/
+
+OWASP Juice Box Challenge -> https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
+
+Certification
+
+    Elearnsecurity -> https://www.elearnsecurity.com/course/
+
+        Web Application Penetration Testing (EWPT) -> https://www.elearnsecurity.com/certification/ewpt/
+
+        Web Application Penetration Testing Extreme (EWPTx) -> https://www.elearnsecurity.com/certification/ewptx/
+
+    SANS
+
+        SEC 542 (GPN) -> https://www.sans.org/course/web-app-penetration-testing-ethical-hacking
+
+        SEC 642 (GXPN) -> https://www.sans.org/course/advanced-web-app-penetration-testing-ethical-hacking
+
+Cheatsheets
+
+    Aptive -> https://www.aptive.co.uk/blog/
+
+Books (crf lib)
+
+    Web application hackers handbook
+
+    Web Hacking 101 - How to make money hacking ethically
+
+  
+
+-------------------
+
+Programming
+
+--------------------
+
+Books (cfr lib)
+
+    Violent Python
