@@ -15,4 +15,7 @@ Security Now
 
 ### Software
 
+### Slack
+7MS slack channel
+
 ### Audio Books
