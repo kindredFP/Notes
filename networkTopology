@@ -1,0 +1,44 @@
+STATIC IPS
+
+
+ETH1 - Managed
+192.168.1.1/24
+192.168.1.149 - HP
+192.168.1.150 - Unifi Controller
+192.168.1.200 - Unifi Switch 8 
+192.168.1.201 - FP-Kindred
+192.168.1.202 - FP-Kind - FP-iPhone
+192.168.1.206 - Unifi AP
+192.168.1.210 - Hannahs Apple Watch
+
+192.168.1.250 - FP-Kindred (ethernet)
+
+VLAN 100 - Guests (only internet access)
+192.168.100.1/24
+192.168.100.107 (Samsung TV)
+192.168.100.196 (Front Door)
+
+VLAN 200 - Cameras (no internet access)
+192.168.200.195 - Outdoor 
+192.168.200.198 - Front Door
+
+ETH2 - Empty
+
+ETH3 - Unmanaged
+192.168.250.50 - roku
+192.168.250.100 - Plex
+
+ETH4
+192.168.2.1/24
+192.168.2.110 - synology
+
+Managed Switch Breakdown
+
+Port 1 - WAN
+Port 2 - 
+Port 3 - Asus AP (Guest)
+Port 4 - Unifi Controller
+Port 5 - 
+Port 6 - Unifi AP
+Port 7 - Outdoor 1
+Port 8 - Outdoor 2
