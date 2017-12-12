@@ -2,6 +2,11 @@
 
 ### Websites
 
+Big blocklist collection
+https://wally3k.github.io/
+
+http://hackerdialogues.com/
+
 ### Podcasts
 Security Now
 7MS.us
@@ -26,3 +31,5 @@ Whoer
 7MS slack channel
 
 ### Audio Books
+
+
