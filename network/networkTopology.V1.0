@@ -1,5 +1,7 @@
 STATIC IPS
 
+Last Update:  03/10/18
+
 
 ETH1 - Managed
 192.168.1.1/24
@@ -9,8 +11,11 @@ ETH1 - Managed
 192.168.1.201 - FP-Kindred
 192.168.1.202 - FP-Kind - FP-iPhone
 192.168.1.206 - Unifi AP
-192.168.1.210 - Hannahs Apple Watch
-
+192.168.1.209 - iPad
+192.168.1.210 - Han Apple Watch
+192.168.1.213 - Google Home
+192.168.1.214 - Chromecast
+192.168.1.217 - Living Room Switch
 192.168.1.250 - FP-Kindred (ethernet)
 
 VLAN 100 - Guests (only internet access)
@@ -19,14 +24,15 @@ VLAN 100 - Guests (only internet access)
 192.168.100.196 (Front Door)
 
 VLAN 200 - Cameras (no internet access)
-192.168.200.195 - Outdoor 
-192.168.200.198 - Front Door
+192.168.200.195 - Outdoor 1
+192.168.200.198 - Outdoor 2
 
-ETH2 - Empty
+ETH2 - 192.168.50.100 - DNS server
 
 ETH3 - Unmanaged
 192.168.250.50 - roku
 192.168.250.100 - Plex
+192.168.250.150
 
 ETH4
 192.168.2.1/24

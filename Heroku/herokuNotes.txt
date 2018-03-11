@@ -1,0 +1,19 @@
+heroku create
+heroku git:remote -a secure-plateau-25954
+git subtree push --prefix WebProject/blog_project heroku master
+
+heroku create
+heroku git:remote -a stormy-earth-54461
+heroku config:set DISABLE_COLLECTSTATIC=1
+git subtree push --prefix WebProject/bootstrap_project heroku master
+
+
+
+
+https://djangoforbeginners.com/simple/
+
+new runtime.txt file
+new Procfile file
+install gunicorn
+new requirements.txt file
+one-line change to settings.py file
